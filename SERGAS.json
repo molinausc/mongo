@@ -1,0 +1,13 @@
+hospital {
+    _id:"codigo",
+    sala: [
+        _id_sala:"id_sala",
+        _id_medico:"id_medico",
+        _id_paciente:"id_paciente"
+    ]
+    paciente: [
+        _id_paciente:"id_paciente",
+        _id_medico:"id_medico",
+        _id_hospital:"id_hospital"
+    ]
+}
