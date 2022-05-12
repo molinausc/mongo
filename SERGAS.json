@@ -26,7 +26,7 @@
                     "nombre": "Antón",
                     "apellidos": "Márquez López",
                     "turno": "M",
-                    "salario": 2800,
+                    "salario": 2800
                 }]
             }]
         },
@@ -53,7 +53,7 @@
                     "nombre": "Lorenzo",
                     "apellidos": "Ruiz Pérez",
                     "turno": "T",
-                    "salario": 1997,
+                    "salario": 1997
                 }]
             }]
         },
@@ -80,7 +80,7 @@
                     "nombre": "Luis",
                     "apellidos": "Llamas Arias",
                     "turno": "M/T",
-                    "salario": 3250,
+                    "salario": 3250
                 }]
             }]
         },
@@ -107,7 +107,7 @@
                     "nombre": "Luis",
                     "apellidos": "Llamas Arias",
                     "turno": "M/T",
-                    "salario": 3250,
+                    "salario": 3250
                 }]
             }]
         }
@@ -122,7 +122,7 @@
                     "nombre": "Antón",
                     "apellidos": "Márquez López",
                     "turno": "M",
-                    "salario": 2800,
+                    "salario": 2800
                 },
                 {
                     "_id": "55486320Q",
@@ -130,7 +130,7 @@
                     "nombre": "Markus",
                     "apellidos": "López Arias",
                     "turno": "M",
-                    "salario": 2500,
+                    "salario": 2500
                 },
                 {
                     "_id": "37456354V",
@@ -138,7 +138,7 @@
                     "nombre": "Lorenzo",
                     "apellidos": "Ruiz Pérez",
                     "turno": "T",
-                    "salario": 1997,
+                    "salario": 1997
                 }
             ]
         },
@@ -152,7 +152,7 @@
                     "nombre": "Maite",
                     "apellidos": "Pereira López",
                     "turno": "M",
-                    "salario": 2670,
+                    "salario": 2670
                 },
                 {
                     "_id": "43672995B",
@@ -160,7 +160,7 @@
                     "nombre": "Antón",
                     "apellidos": "Márquez López",
                     "turno": "M",
-                    "salario": 2800,
+                    "salario": 2800
                 },
                 {
                     "_id": "37456354V",
@@ -168,7 +168,7 @@
                     "nombre": "Lorenzo",
                     "apellidos": "Ruiz Pérez",
                     "turno": "T",
-                    "salario": 1997,
+                    "salario": 1997
                 }
             ]
         },
@@ -182,7 +182,7 @@
                 "nombre": "Lorenzo",
                 "apellidos": "Ruiz Pérez",
                 "turno": "T",
-                "salario": 1997,
+                "salario": 1997
             }]
         },
         {
@@ -195,7 +195,7 @@
                 "nombre": "Luis",
                 "apellidos": "Llamas Arias",
                 "turno": "M/T",
-                "salario": 3250,
+                "salario": 3250
             }]
         }
     ]
