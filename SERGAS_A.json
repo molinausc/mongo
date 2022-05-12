@@ -28,7 +28,7 @@
                         "nombre": "Enrique",
                         "apellidos": "Blas Pérez",
                         "turno": "M",
-                        "salario": 3000
+                        "salario": 3000,
                         "fechAlta": ISODATE("1984-05-01T00:00:00Z")
                     },
                     {
@@ -128,7 +128,7 @@
                     "nombre": "Ana",
                     "apellidos": "Blanco Amor",
                     "turno": "T",
-                    "salario": 1550
+                    "salario": 1550,
                     "fechAlta": ISODATE("1999-05-19T00:00:00Z")
                 }]
             }]
@@ -190,7 +190,7 @@
                         "nombre": "Juan",
                         "apellidos": "Pérez Pérez",
                         "turno": "M",
-                        "salario": 1500
+                        "salario": 1500,
                         "fechAlta": ISODATE("2000-01-19T00:00:00Z")
                     },
                     {
@@ -199,7 +199,7 @@
                         "nombre": "Belén",
                         "apellidos": "Bande Ruiz",
                         "turno": "T",
-                        "salario": 1700
+                        "salario": 1700,
                         "fechAlta": ISODATE("1992-07-21T00:00:00Z")
                     }
                 ]
@@ -216,7 +216,7 @@
                     "nombre": "Enrique",
                     "apellidos": "Blas Pérez",
                     "turno": "M",
-                    "salario": 3000
+                    "salario": 3000,
                     "fechAlta": ISODATE("1984-05-01T00:00:00Z")
                 },
                 {
@@ -257,7 +257,7 @@
                     "nombre": "María",
                     "apellidos": "Moldes Pérez",
                     "turno": "M",
-                    "salario": 1660
+                    "salario": 1660,
                     "fechAlta": ISODATE("1988-03-01T00:00:00Z")
                 }
             ]
@@ -272,7 +272,7 @@
                     "nombre": "Juan",
                     "apellidos": "Pérez Pérez",
                     "turno": "M",
-                    "salario": 1500
+                    "salario": 1500,
                     "fechAlta": ISODATE("2000-01-19T00:00:00Z")
                 },
                 {
@@ -281,7 +281,7 @@
                     "nombre": "Ana",
                     "apellidos": "Blanco Amor",
                     "turno": "T",
-                    "salario": 1550
+                    "salario": 1550,
                     "fechAlta": ISODATE("1999-05-19T00:00:00Z")
                 }
             ]
@@ -296,7 +296,7 @@
                     "nombre": "Juan",
                     "apellidos": "Pérez Pérez",
                     "turno": "M",
-                    "salario": 1500
+                    "salario": 1500,
                     "fechAlta": ISODATE("2000-01-19T00:00:00Z")
                 },
                 {
@@ -305,7 +305,7 @@
                     "nombre": "Belén",
                     "apellidos": "Bande Ruiz",
                     "turno": "T",
-                    "salario": 1700
+                    "salario": 1700,
                     "fechAlta": ISODATE("1992-07-21T00:00:00Z")
                 }
             ]
