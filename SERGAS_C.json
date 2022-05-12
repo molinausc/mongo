@@ -1,1 +1,239 @@
+{
+    "_id": "H0003",
+    "nombre": "Complexo Hospitalario Unicersitario de Ourense",
+    "direccion": "Ramon Puga, 54, 32005 Ourense, Ourense",
+    "telefono": "988385500",
+    "ingresos": [{
+        "fIngreso": "2021-12-11T00:00:00Z",
+        "fAlta": "2022-01-11T00:00:00Z",
+        "paciente": {
+            "_id": "0216",
+            "nombre": "Julia",
+            "apellidos": "Otero Otero",
+            "calle": "C/Rea",
+            "portal": 12,
+            "piso": "3B",
+            "ciudad": "Ourense",
+            "edad": 42,
+            "sexo": "M",
+            "medico": {}
+        },
+        "salas": [
+            {
+                "_id": 102,
+                "nombre": "UCC",
+                "planta": 1,
+                "medicos": [
+                    {
+                        "_id": "91213649H",
+                        "especialidad": "Enfermera",
+                        "nombre": "Sonia",
+                        "apellidos": "García Báez",
+                        "turno": "M",
+                        "salario": 1950,
+                        "fechAlta": "1975-03-01T00:00:00Z"
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "fIngreso": "2022-01-11T00:00:00Z",
+        "fAlta": "2022-01-21T00:00:00Z",
+        "paciente": {
+            "_id": 8436,
+            "nombre": "Jaime",
+            "apellidos": "López Otero",
+            "calle": "C/Lis",
+            "portal": 22,
+            "piso": "1A",
+            "ciudad": "Ourense",
+            "edad": 20,
+            "sexo": "H",
+            "medico": {}
+        },
+        "salas": [
+            {
+                "_id": 201,
+                "nombre": "COVID",
+                "planta": 2,
+                "medicos": [
+                    {
+                        "_id": "45235687G",
+                        "especialidad": "Enfermera",
+                        "nombre": "María",
+                        "apellidos": "Méndez Sans",
+                        "turno": "M",
+                        "salario": 1640,
+                        "fechAlta": "1997-06-19T00:00:00Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "fIngreso": "2020-11-21T00:00:00Z",
+        "fAlta": "2020-12-15T00:00:00Z",
+        "paciente": {
+            "_id": 9571,
+            "nombre": "Julio",
+            "apellidos": "Rivas López",
+            "calle": "C/Ara",
+            "portal": 38,
+            "piso": "1G",
+            "ciudad": "Ourense",
+            "edad": 18,
+            "sexo": "H",
+            "medico": {}
+        },
+        "salas": [
+            {
+                "_id": 203,
+                "nombre": "COVID",
+                "planta": 2,
+                "medicos": [
+                    {
+                        "_id": "91122154Y",
+                        "especialidad": "Enfermera",
+                        "nombre": "María",
+                        "apellidos": "Pérez López",
+                        "turno": "T",
+                        "salario": 1850,
+                        "fechAlta": "1990-04-04T00:00:00Z"
+                    }
+                ]
+            }
+        ]
+    }
+    ],
 
+    "salas": [
+        {
+            "_id": 101,
+            "nombre": "Cirugía",
+            "planta": 1,
+            "medicos": [
+                {
+                    "_id": "91213649H",
+                    "especialidad": "Enfermera",
+                    "nombre": "Sonia",
+                    "apellidos": "García Báez",
+                    "turno": "M",
+                    "salario": 1950,
+                    "fechAlta": "1975-03-01T00:00:00Z"
+                },
+                {
+                    "_id": "69283498J",
+                    "especialidad": "Enfermera",
+                    "nombre": "Sara",
+                    "apellidos": "García Páez",
+                    "turno": "T",
+                    "salario": 1773,
+                    "fechAlta": "1979-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "_id": 102,
+            "nombre": "UCC",
+            "planta": 1,
+            "medicos": [
+                {
+                    "_id": "91213649H",
+                    "especialidad": "Enfermera",
+                    "nombre": "Sonia",
+                    "apellidos": "García Báez",
+                    "turno": "M",
+                    "salario": 1950,
+                    "fechAlta": "1975-03-01T00:00:00Z"
+                },
+                {
+                    "_id": "69283498J",
+                    "especialidad": "Enfermera",
+                    "nombre": "Sara",
+                    "apellidos": "García Páez",
+                    "turno": "T",
+                    "salario": 1773,
+                    "fechAlta": "1979-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "_id": 201,
+            "nombre": "COVID",
+            "planta": 2,
+            "medicos": [
+                {
+                    "_id": "45235687G",
+                    "especialidad": "Enfermera",
+                    "nombre": "María",
+                    "apellidos": "Méndez Sans",
+                    "turno": "M",
+                    "salario": 1640,
+                    "fechAlta": "1997-06-19T00:00:00Z"
+                },
+                {
+                    "_id": "91122154Y",
+                    "especialidad": "Enfermera",
+                    "nombre": "María",
+                    "apellidos": "Pérez López",
+                    "turno": "T",
+                    "salario": 1850,
+                    "fechAlta": "1990-04-04T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "_id": 202,
+            "nombre": "COVID",
+            "planta": 2,
+            "medicos": [
+                {
+                    "_id": "45235687G",
+                    "especialidad": "Enfermera",
+                    "nombre": "María",
+                    "apellidos": "Méndez Sans",
+                    "turno": "M",
+                    "salario": 1640,
+                    "fechAlta": "1997-06-19T00:00:00Z"
+                },
+                {
+                    "_id": "48234848W",
+                    "especialidad": "Enfermero",
+                    "nombre": "Jose",
+                    "apellidos": "Martínez Arias",
+                    "turno": "M/T",
+                    "salario": 1900,
+                    "fechAlta": "1988-07-18T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "_id": 203,
+            "nombre": "COVID",
+            "planta": 2,
+            "medicos": [
+                {
+                    "_id": "48234848W",
+                    "especialidad": "Enfermero",
+                    "nombre": "Jose",
+                    "apellidos": "Martínez Arias",
+                    "turno": "M/T",
+                    "salario": 1900,
+                    "fechAlta": "1988-07-18T00:00:00Z"
+                },
+                {
+                    "_id": "91122154Y",
+                    "especialidad": "Enfermera",
+                    "nombre": "María",
+                    "apellidos": "Pérez López",
+                    "turno": "T",
+                    "salario": 1850,
+                    "fechAlta": "1990-04-04T00:00:00Z"
+                }
+            ]
+        }
+    ]
+
+
+}
