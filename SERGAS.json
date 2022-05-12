@@ -4,8 +4,8 @@
     "direccion": "Iglesias Otero, s/n, 27004 Lugo, Lugo",
     "telefono": "982222854",
     "ingresos": [{
-            "fIngreso": ISODATE("2019-11-01T00:00:00Z"),
-            "fAlta": ISODATE("2019-11-08T00:00:00Z"),
+            "fIngreso": "2019-11-01T00:00:00Z",
+            "fAlta": "2019-11-08T00:00:00Z",
             "paciente": {
                 "_id": 1312,
                 "nombre": "María",
@@ -29,13 +29,13 @@
                     "apellidos": "Márquez López",
                     "turno": "M",
                     "salario": 2800,
-                    "fechAlta": ISODATE("2019-11-08T00:00:00Z")
+                    "fechAlta": "2019-11-08T00:00:00Z"
                 }]
             }]
         },
         {
-            "fIngreso": ISODATE("2011-09-21T00:00:00Z"),
-            "fAlta": ISODATE("2011-10-01T00:00:00Z"),
+            "fIngreso": "2011-09-21T00:00:00Z",
+            "fAlta": "2011-10-01T00:00:00Z",
             "paciente": {
                 "_id": 4565,
                 "nombre": "Ana",
@@ -59,13 +59,13 @@
                     "apellidos": "Ruiz Pérez",
                     "turno": "T",
                     "salario": 1997,
-                    "fechAlta": ISODATE("2000-12-01T00:00:00Z")
+                    "fechAlta": "2000-12-01T00:00:00Z"
                 }]
             }]
         },
         {
-            "fIngreso": ISODATE("2021-10-12T00:00:00Z"),
-            "fAlta": ISODATE("2021-10-15T00:00:00Z"),
+            "fIngreso": "2021-10-12T00:00:00Z",
+            "fAlta": "2021-10-15T00:00:00Z",
             "paciente": {
                 "_id": 4655,
                 "nombre": "Sara",
@@ -89,13 +89,13 @@
                     "apellidos": "Llamas Arias",
                     "turno": "M/T",
                     "salario": 3250,
-                    "fechAlta": ISODATE("1990-12-14T00:00:00Z")
+                    "fechAlta": "1990-12-14T00:00:00Z"
                 }]
             }]
         },
         {
-            "fIngreso": ISODATE("2022-01-11T00:00:00Z"),
-            "fAlta": ISODATE("2022-01-21T00:00:00Z"),
+            "fIngreso": "2022-01-11T00:00:00Z",
+            "fAlta": "2022-01-21T00:00:00Z",
             "paciente": {
                 "_id": 4112,
                 "nombre": "Inés",
@@ -119,7 +119,7 @@
                     "apellidos": "Llamas Arias",
                     "turno": "M/T",
                     "salario": 3250,
-                    "fechAlta": ISODATE("1990-12-14T00:00:00Z")
+                    "fechAlta": "1990-12-14T00:00:00Z"
                 }]
             }]
         }
@@ -135,7 +135,7 @@
                     "apellidos": "Márquez López",
                     "turno": "M",
                     "salario": 2800,
-                    "fechAlta": ISODATE("2019-11-08T00:00:00Z")
+                    "fechAlta": "2019-11-08T00:00:00Z"
                 },
                 {
                     "_id": "55486320Q",
@@ -144,7 +144,7 @@
                     "apellidos": "López Arias",
                     "turno": "M",
                     "salario": 2500,
-                    "fechAlta": ISODATE("1999-09-01T00:00:00Z")
+                    "fechAlta": "1999-09-01T00:00:00Z"
                 },
                 {
                     "_id": "37456354V",
@@ -153,7 +153,7 @@
                     "apellidos": "Ruiz Pérez",
                     "turno": "T",
                     "salario": 1997,
-                    "fechAlta": ISODATE("2000-12-01T00:00:00Z")
+                    "fechAlta": "2000-12-01T00:00:00Z"
                 }
             ]
         },
@@ -168,7 +168,7 @@
                     "apellidos": "Pereira López",
                     "turno": "M",
                     "salario": 2670,
-                    "fechAlta": ISODATE("2000-01-01T00:00:00Z")
+                    "fechAlta": "2000-01-01T00:00:00Z"
                 },
                 {
                     "_id": "43672995B",
@@ -177,7 +177,7 @@
                     "apellidos": "Márquez López",
                     "turno": "M",
                     "salario": 2800,
-                    "fechAlta": ISODATE("2019-11-08T00:00:00Z")
+                    "fechAlta": "2019-11-08T00:00:00Z"
                 },
                 {
                     "_id": "37456354V",
@@ -186,7 +186,7 @@
                     "apellidos": "Ruiz Pérez",
                     "turno": "T",
                     "salario": 1997,
-                    "fechAlta": ISODATE("2000-12-01T00:00:00Z")
+                    "fechAlta": "2000-12-01T00:00:00Z"
                 }
             ]
         },
@@ -201,7 +201,7 @@
                 "apellidos": "Ruiz Pérez",
                 "turno": "T",
                 "salario": 1997,
-                "fechAlta": ISODATE("2000-12-01T00:00:00Z")
+                "fechAlta": "2000-12-01T00:00:00Z"
             }]
         },
         {
@@ -215,7 +215,7 @@
                 "apellidos": "Llamas Arias",
                 "turno": "M/T",
                 "salario": 3250,
-                "fechAlta": ISODATE("1990-12-14T00:00:00Z")
+                "fechAlta": "1990-12-14T00:00:00Z"
             }]
         }
     ]
