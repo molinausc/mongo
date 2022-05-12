@@ -1,1 +1,339 @@
+{
+    "_id": "H0001",
+    "nombre": "Lucus Augusti",
+    "direccion": "Dr. Ulises Romero, 1, 27003 Lugo, Lugo",
+    "telefono": "982296000",
+    "ingresos": [{
+            "fIngreso": ISODATE("2021-01-01T00:00:00Z"),
+            "fAlta": ISODATE("2021-01-07T00:00:00Z"),
+            "paciente": {
+                "_id": 1111,
+                "nombre": "Luis",
+                "apellidos": "Fragua Lloris",
+                "calle": "Av. Magoi",
+                "portal": 18,
+                "piso": "4ºA",
+                "ciudad": "Lugo",
+                "edad": 45,
+                "sexo": "H",
+                "medico": {}
+            },
+            "salas": [{
+                "_id": 102,
+                "nombre": "UCI",
+                "planta": 1,
+                "medicos": [{
+                        "_id": "43122456H",
+                        "especialidad": "Cirujano",
+                        "nombre": "Enrique",
+                        "apellidos": "Blas Pérez",
+                        "turno": "M",
+                        "salario": 3000
+                        "fechAlta": ISODATE("1984-05-01T00:00:00Z")
+                    },
+                    {
+                        "_id": "42453245O",
+                        "especialidad": "Enfermero",
+                        "nombre": "Adolfo",
+                        "apellidos": "López Miras",
+                        "turno": "T",
+                        "salario": 1500,
+                        "fechAlta": ISODATE("1990-06-01T00:00:00Z")
+                    }
+                ]
+            }]
+        },
+        {
+            "fIngreso": ISODATE("2021-01-10T00:00:00Z"),
+            "fAlta": ISODATE("2021-01-10T00:00:00Z"),
+            "paciente": {
+                "_id": 1312,
+                "nombre": "María",
+                "apellidos": "Montes López",
+                "calle": "C/Rio Eo",
+                "portal": 22,
+                "piso": "5D",
+                "ciudad": "Lugo",
+                "edad": 71,
+                "sexo": "M",
+                "medico": {}
+            },
+            "salas": [{
+                "_id": 301,
+                "nombre": "Oncología",
+                "planta": 3,
+                "medicos": [{
+                    "_id": "65566785G",
+                    "especialidad": "Oncóloga",
+                    "nombre": "Martina",
+                    "apellidos": "Blanco Ara",
+                    "turno": "M",
+                    "salario": 2800,
+                    "fechAlta": ISODATE("1990-04-01T00:00:00Z")
+                }]
+            }]
+        },
+        {
+            "fIngreso": ISODATE("2021-01-11T00:00:00Z"),
+            "fAlta": ISODATE("2021-01-20T00:00:00Z"),
+            "paciente": {
+                "_id": 1452,
+                "nombre": "Antonio",
+                "apellidos": "Pérez Pérez",
+                "calle": "C/Conde",
+                "portal": 53,
+                "piso": "1A",
+                "ciudad": "Lugo",
+                "edad": 66,
+                "sexo": "H",
+                "medico": {}
+            },
+            "salas": [{
+                "_id": 101,
+                "nombre": "Cirugía",
+                "planta": 1,
+                "medicos": [{
+                    "_id": "42453245O",
+                    "especialidad": "Enfermero",
+                    "nombre": "Adolfo",
+                    "apellidos": "López Miras",
+                    "turno": "T",
+                    "salario": 1500,
+                    "fechAlta": ISODATE("1990-06-01T00:00:00Z")
+                }]
+            }]
+        },
+        {
+            "fIngreso": ISODATE("2021-01-12T00:00:00Z"),
+            "fAlta": ISODATE("2022-01-01T00:00:00Z"),
+            "paciente": {
+                "_id": 2135,
+                "nombre": "Juan",
+                "apellidos": "Gálvez García",
+                "calle": "C/Muro",
+                "portal": 101,
+                "piso": "1A",
+                "ciudad": "Lugo",
+                "edad": 53,
+                "sexo": "H",
+                "medico": {}
+            },
+            "salas": [{
+                "_id": 201,
+                "nombre": "Post Operatorio",
+                "planta": 2,
+                "medicos": [{
+                    "_id": "73485699J",
+                    "especialidad": "Enfermera",
+                    "nombre": "Ana",
+                    "apellidos": "Blanco Amor",
+                    "turno": "T",
+                    "salario": 1550
+                    "fechAlta": ISODATE("1999-05-19T00:00:00Z")
+                }]
+            }]
+        },
+        {
+            "fIngreso": ISODATE("2021-01-12T00:00:00Z"),
+            "fAlta": ISODATE("2021-01-25T00:00:00Z"),
+            "paciente": {
+                "_id": 4565,
+                "nombre": "Ana",
+                "apellidos": "Blanco Blanco",
+                "calle": "C/Prado",
+                "portal": 45,
+                "piso": "1A",
+                "ciudad": "Lugo",
+                "edad": 68,
+                "sexo": "M",
+                "medico": {}
+            },
+            "salas": [{
+                "_id": 301,
+                "nombre": "Oncología",
+                "planta": 3,
+                "medicos": [{
+                        "_id": "40987065J",
+                        "especialidad": "Enfermera",
+                        "nombre": "Mara",
+                        "apellidos": "López Verdú",
+                        "turno": "T",
+                        "salario": 2000,
+                        "fechAlta": ISODATE("1988-03-01T00:00:00Z")
+                    }
 
+                ]
+            }]
+        },
+        {
+            "fIngreso": ISODATE("2021-01-21T00:00:00Z"),
+            "fAlta": ISODATE("2021-10-15T00:00:00Z"),
+            "paciente": {
+                "_id": 4655,
+                "nombre": "Sara",
+                "apellidos": "Rubio Jérez",
+                "calle": "C/Peto",
+                "portal": 22,
+                "piso": "6A",
+                "ciudad": "Lugo",
+                "edad": 21,
+                "sexo": "M",
+                "medico": {}
+            },
+            "salas": [{
+                "_id": 202,
+                "nombre": "Lactancia",
+                "planta": 2,
+                "medicos": [{
+                        "_id": "34784143J",
+                        "especialidad": "Enfermero",
+                        "nombre": "Juan",
+                        "apellidos": "Pérez Pérez",
+                        "turno": "M",
+                        "salario": 1500
+                        "fechAlta": ISODATE("2000-01-19T00:00:00Z")
+                    },
+                    {
+                        "_id": "45328445J",
+                        "especialidad": "Enfermera",
+                        "nombre": "Belén",
+                        "apellidos": "Bande Ruiz",
+                        "turno": "T",
+                        "salario": 1700
+                        "fechAlta": ISODATE("1992-07-21T00:00:00Z")
+                    }
+                ]
+            }]
+        }
+    ],
+    "salas": [{
+            "_id": 101,
+            "nombre": "Cirugía",
+            "planta": 1,
+            "medicos": [{
+                    "_id": "43122456H",
+                    "especialidad": "Cirujano",
+                    "nombre": "Enrique",
+                    "apellidos": "Blas Pérez",
+                    "turno": "M",
+                    "salario": 3000
+                    "fechAlta": ISODATE("1984-05-01T00:00:00Z")
+                },
+                {
+                    "_id": "42453245O",
+                    "especialidad": "Enfermero",
+                    "nombre": "Adolfo",
+                    "apellidos": "López Miras",
+                    "turno": "T",
+                    "salario": 1500,
+                    "fechAlta": ISODATE("1990-06-01T00:00:00Z")
+                },
+                {
+                    "_id": "40987065J",
+                    "especialidad": "Enfermera",
+                    "nombre": "Mara",
+                    "apellidos": "López Verdú",
+                    "turno": "T",
+                    "salario": 2000,
+                    "fechAlta": ISODATE("1988-03-01T00:00:00Z")
+                }
+            ]
+        }, {
+            "_id": 102,
+            "nombre": "UCI",
+            "planta": 1,
+            "medicos": [{
+                    "_id": "42453245O",
+                    "especialidad": "Enfermero",
+                    "nombre": "Adolfo",
+                    "apellidos": "López Miras",
+                    "turno": "T",
+                    "salario": 1500,
+                    "fechAlta": ISODATE("1990-06-01T00:00:00Z")
+                },
+                {
+                    "_id": "67666411H",
+                    "especialidad": "Enfermera",
+                    "nombre": "María",
+                    "apellidos": "Moldes Pérez",
+                    "turno": "M",
+                    "salario": 1660
+                    "fechAlta": ISODATE("1988-03-01T00:00:00Z")
+                }
+            ]
+        },
+        {
+            "_id": 201,
+            "nombre": "Post Operatorio",
+            "planta": 2,
+            "medicos": [{
+                    "_id": "34784143J",
+                    "especialidad": "Enfermero",
+                    "nombre": "Juan",
+                    "apellidos": "Pérez Pérez",
+                    "turno": "M",
+                    "salario": 1500
+                    "fechAlta": ISODATE("2000-01-19T00:00:00Z")
+                },
+                {
+                    "_id": "73485699J",
+                    "especialidad": "Enfermera",
+                    "nombre": "Ana",
+                    "apellidos": "Blanco Amor",
+                    "turno": "T",
+                    "salario": 1550
+                    "fechAlta": ISODATE("1999-05-19T00:00:00Z")
+                }
+            ]
+        },
+        {
+            "_id": 202,
+            "nombre": "Lactancia",
+            "planta": 2,
+            "medicos": [{
+                    "_id": "34784143J",
+                    "especialidad": "Enfermero",
+                    "nombre": "Juan",
+                    "apellidos": "Pérez Pérez",
+                    "turno": "M",
+                    "salario": 1500
+                    "fechAlta": ISODATE("2000-01-19T00:00:00Z")
+                },
+                {
+                    "_id": "45328445J",
+                    "especialidad": "Enfermera",
+                    "nombre": "Belén",
+                    "apellidos": "Bande Ruiz",
+                    "turno": "T",
+                    "salario": 1700
+                    "fechAlta": ISODATE("1992-07-21T00:00:00Z")
+                }
+            ]
+        },
+        {
+            "_id": 301,
+            "nombre": "Oncología",
+            "planta": 3,
+            "medicos": [{
+                    "_id": "65566785G",
+                    "especialidad": "Oncóloga",
+                    "nombre": "Martina",
+                    "apellidos": "Blanco Ara",
+                    "turno": "M",
+                    "salario": 2800,
+                    "fechAlta": ISODATE("1990-04-01T00:00:00Z")
+                },
+                {
+                    "_id": "40987065J",
+                    "especialidad": "Enfermera",
+                    "nombre": "Mara",
+                    "apellidos": "López Verdú",
+                    "turno": "T",
+                    "salario": 2000,
+                    "fechAlta": ISODATE("1988-03-01T00:00:00Z")
+                }
+
+            ]
+        }
+    ]
+}
